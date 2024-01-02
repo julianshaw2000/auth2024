@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\auth2024.props" />
+</Project>
